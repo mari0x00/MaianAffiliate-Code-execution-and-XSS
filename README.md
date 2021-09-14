@@ -2,7 +2,7 @@
 https://www.maianaffiliate.com/
 
 # How it works
-The exploit this vulnerability one has to log into MaianAffiliate admin panel and add a new product. 
+To exploit this vulnerability one has to log into MaianAffiliate admin panel and add a new product. 
 The injected payload is reflected on the affiliate mane page (for all authenticated and unauthenticated visitors).
 
 ![Affiliate](https://user-images.githubusercontent.com/25896006/133241512-e94cc320-ece3-4368-9df2-cbc10412cfa2.gif)
